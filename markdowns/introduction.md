@@ -1,6 +1,6 @@
 # Introduction
 
-Les exercices de cette séance portent sur l’écriture de structures de contrôle itératives. Vous déterminerez  et écrirez
+Les exercices de cette séance portent sur l’écriture de structures de contrôle itératives. Vous déterminerez et écrirez
 - l’état initial des variables de votre programme ;
 - les traitements à répéter dans votre solution à l’exercice ;
 - les conditions d’arrêt du traitement à répéter ;
