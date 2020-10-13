@@ -1,0 +1,20 @@
+title: Les répétitions
+plan:
+- title: Introduction
+  statement: markdowns/introduction.md
+- title: Exercice 1
+  statement: markdowns/ex1.md
+- title: Exercice 2
+  statement: markdowns/ex2.md
+- title: Exercice 3
+  statement: markdowns/ex3.md
+- title: Exercice 4
+  statement: markdowns/ex4.md
+- title: Exercice 5
+  statement: markdowns/ex5.md  
+projects:
+  prime:
+    root: /prime
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
