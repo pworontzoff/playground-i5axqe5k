@@ -1,5 +1,5 @@
-# Exercice 9
-Cet exercice utilise les Papers animés :  [La fourmi de Langton](https://tech.io/playgrounds/51349/)
+# Exercice 6
+Une série d'exercices avec les "drawing" : [Les drawings](https://tech.io/playgrounds/51454/)
 
 
 
