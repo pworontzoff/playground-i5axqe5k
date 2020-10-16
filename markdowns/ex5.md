@@ -1,6 +1,6 @@
 # Exercice 5
 
-Tester si un nombre est premier
+Tester si un nombre est premier en retournant 1 si 
 
 ## Resolution
 
