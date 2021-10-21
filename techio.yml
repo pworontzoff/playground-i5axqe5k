@@ -1,4 +1,4 @@
-title: Les répétitions
+title: 4 - Les répétitions
 plan:
 - title: Introduction
   statement: markdowns/introduction.md
@@ -11,10 +11,9 @@ plan:
 - title: Exercice 4
   statement: markdowns/ex4.md
 - title: Exercice 5
-  statement: markdowns/ex5.md  
+  statement: markdowns/ex5.md
 - title: Exercice 6
-  statement: markdowns/ex6.md  
-  
+  statement: markdowns/ex6.md
 projects:
   prime:
     root: /prime
