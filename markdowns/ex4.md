@@ -4,7 +4,7 @@ Les habitants de « pyramidesville » adorent les constructions en forme de pyra
 
 Votre programme doit d'abord lire un entier : le nombre maximum de pierres dont pourra être composée la pyramide. Il devra ensuite calculer et afficher un entier : la hauteur de la plus grande pyramide qui pourra être construite, ainsi que le nombre de pierres qui sera nécessaire.
 
-La solution doit faire intervenir au moins deux autreq fonctionq que la fonction main. Ces fonctions doivent avoir des paramètres et retourner une valeur.
+La solution doit faire intervenir au moins deux autres fonctions que la fonction main. Ces fonctions doivent avoir au moins un paramètre et retourner une valeur.
 
 ![Pyramide](images/pyramides.jpg)
 
