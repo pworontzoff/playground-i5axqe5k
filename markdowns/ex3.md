@@ -1,6 +1,6 @@
 # Exercice 3
 
-## Les nombres aléatoires
+## Les nombres aléatoires : un eptit exemple
 
 ```C runnable
 #include <stdlib.h>
@@ -21,7 +21,7 @@ int main() {
 ```
 
 
-## Devinez le nombre ! 
+## L'énoncé : devinez le nombre ! 
 
 Ecrire un programme qui …
 - génère un nombre entier compris entre 1 et 1000.
