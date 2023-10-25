@@ -1,6 +1,6 @@
 # Introduction
 
-Les exercices de cette séance portent sur l’écriture de structures de contrôle itératives, en utilisant aussi les fonctions en tant que bonne pratique vers des solutions intégrants de bonnes découpes en sous-problèmes. Vous déterminerez et écrirez
+Les exercices de cette séance portent sur l’écriture de structures de contrôle itératives, en utilisant aussi les fonctions en tant que bonne pratique vers des solutions intégrants de bonnes découpes en sous-problèmes. Pour ces exercices, il pourra s'avérer très constructif et formatif de déterminer et/ou observer, notamment au moyen du debogueur :
 - l’état initial des variables de votre programme ;
 - les traitements à répéter dans votre solution à l’exercice ;
 - les conditions d’arrêt du traitement à répéter ;
