@@ -8,7 +8,7 @@ Vous devrez impérativement programmer une solution qui utilise la fonction suiv
 
 ```c
 int doomsDay(int pop); // pop : la population de la ville (nombre de'habitants). 
-                       // Retourne le nombre de jour nécéssaires pour que toute la ville soit malade.
+                       // Retourne le nombre de jours nécéssaires pour que toute la ville soit malade.
 ```
 
 
