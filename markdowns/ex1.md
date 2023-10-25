@@ -7,7 +7,8 @@ Votre programme doit d'abord lire un nombre entier correspondant à la populatio
 Vous devrez impérativement programmer une solution qui utilise la fonction suivante, dont voici le prototype imposé : 
 
 ```c
-int doomsDay(int pop); // pop : la population de la ville (nombre de'habitants). Retourne le nombre de jour nécéssaires pour que toute la ville soit malade.
+int doomsDay(int pop); // pop : la population de la ville (nombre de'habitants). 
+                       // Retourne le nombre de jour nécéssaires pour que toute la ville soit malade.
 ```
 
 
