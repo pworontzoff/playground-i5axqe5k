@@ -1,6 +1,6 @@
 # Exercice 3
 
-## Les nombres aléatoires : un eptit exemple
+## Les nombres aléatoires : un petit exemple
 
 ```C runnable
 #include <stdlib.h>
