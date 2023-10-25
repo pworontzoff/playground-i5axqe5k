@@ -4,6 +4,9 @@ Afin de pouvoir mieux combattre les différentes épidémies, parfois très grav
 
 Votre programme doit d'abord lire un nombre entier correspondant à la population totale de la ville. Sachant qu'une personne était malade au jour 1 et que chaque malade contamine deux nouvelles personnes le jour suivant (et chacun des jours qui suivent), vous devez calculer à partir de quel jour toute la population de la ville sera malade.
 
+Vous devrez impérativement programmer une solution qui utilise la fonction suivante, dont voici le prototype imposé : 
+
+
 ## Exemple
 
 On a 1 malade le premier jour, donc 2 nouveaux malades le second jour, soit un total de 3 malades. On a donc 6 nouveaux malades au troisième jour, soit un total de 9 malades. On a donc 18 nouveaux malades au quatrième jour, soit…
