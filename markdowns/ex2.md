@@ -6,4 +6,6 @@ Toutes les dépenses de l'année ont été enregistrées et classées dans une m
 
 Votre programme devra lire une suite d'entiers positifs et afficher leur somme. On ne sait pas combien il y aura d'entiers, mais la suite se termine toujours par la valeur -1 (qui n'est pas une dépense, juste un marqueur de fin).
 
-Attention, toutes le dépenses négatives ou >= 10000
+Attention, toutes le dépenses négatives ou >= 10000 donnent lieu à un affichage "Depense non prise en compte !" et celles-ci ne sont pas prises en compte.
+
+Vous devez impérativement découper votre programme en utilisant une fonction qui effectue le contrôle de la dépense. Aucun printf ou scanf n'est permis dans cette fonction.
