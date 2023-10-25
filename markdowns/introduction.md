@@ -32,6 +32,6 @@ Ensuite, vous pouvez écrire votre code en ligne 7 juste avant l'instruction `re
 
 Le bouton "Exécuter sans débogage" (triangle "play" vert) permet de recompiler et exécuter tout votre projet.
 
-À toutes fins utiles, voici à nouveau le document contenant des infos utiles sur l'utilisation du debogueur de Visual Studio : ["./ressources
-/vs intro debug.pdf"]("./ressources
-/vs intro debug.pdf")
+À toutes fins utiles, voici à nouveau le document contenant des infos utiles sur l'utilisation du debogueur de Visual Studio : ("./ressources
+/vs intro debug.pdf")["./ressources
+/vs intro debug.pdf"]
