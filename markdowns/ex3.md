@@ -99,3 +99,34 @@ C'est moins ! Il te reste 1 essais...
 667
 C'est gagne !
 ```
+
+Attention, votre chef a programmé le main pour vous comme ceci, il vous reste à terminer le programme (sans pouvoir changer le code donné) : 
+
+```C
+#pragma warning(disable:4996)
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int jeu(int nbEssais, int n, int x); // prend en argument le nombre d'essais restants (nbEssais), le nombre à deviner (n) et le nombre entré par l'utilisateur (x) et retourne le nombre d'essais restants actualisés.
+
+int main() {
+    int n; // le nombre à deviner.
+    int x; // le nombre entré par l'utilisateur (un essai)
+    int nbEssais = 10;
+    //Initialise la séquence de nombres pseudo-aléatoires
+    srand((unsigned int)time(NULL));
+
+    n = rand() % 1000 + 1;
+
+    printf("Deviner le nombre entre 1 et 1000 (0 pour abandonner) :\n");
+    do {
+        scanf("%d", &x);
+        nbEssais = jeu(nbEssais, n, x);
+    } while (nbEssais > 0 && x != n && x != 0);
+    if (x != n) {
+        printf("\nC'est perdu, le nombre a devine etait : %d !\n", n);
+    }
+    return 0;
+}
+```
