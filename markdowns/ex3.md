@@ -24,10 +24,10 @@ int main() {
 ## L'énoncé : devinez le nombre ! 
 
 Ecrire un programme qui …
-- génère un nombre entier compris entre 1 et 1000.
-- offre à l’utilisateur 10 essais pour trouver ce nombre.  Les indications « c’est plus » ou « c’est moins » sont fournies à l’utilisateur pour toute tentative infructueuse.
-- les tentatives qui sont hors de l'intervalle [1-1000] ne sont pas prises en compte (on garde le même nombre d'essais)
-- Entrer 0 est synonyme d'abandon de la partie !
+- Génère un nombre entier compris entre 1 et 1000;
+- Offre à l’utilisateur 10 essais pour trouver ce nombre.  Les indications « c’est plus » ou « c’est moins » sont fournies à l’utilisateur pour toute tentative infructueuse;
+- NB : Les tentatives qui sont hors de l'intervalle [1-1000] ne sont pas prises en compte (on garde le même nombre d'essais);
+- NB : Entrer 0 est synonyme d'abandon de la partie.
 
 Le programme doit générer les affichages suivants (en fonction des scenari : défaite, abandon ou vicroire):
 
