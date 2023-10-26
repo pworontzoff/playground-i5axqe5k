@@ -58,7 +58,7 @@ C'est plus ! Il te reste 0 essais...
 C'est perdu, le nombre a devine etait : 179 !
 ```
 
-Exemple d'abandon :
+Exemple d'abandon (et essais non pris en compte) :
 ```
 Deviner le nombre entre 1 et 1000 (0 pour abandonner) :
 -1
