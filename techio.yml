@@ -12,7 +12,7 @@ plan:
   statement: markdowns/ex4.md
 - title: Exercice 5
   statement: markdowns/ex5.md
-- title: Exercice 6
+- title: Exercice 6 (facultatif)
   statement: markdowns/ex6.md
 projects:
   prime:
