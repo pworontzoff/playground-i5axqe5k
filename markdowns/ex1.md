@@ -11,7 +11,7 @@ int doomsDay(int pop); // pop : la population de la ville (nombre de'habitants).
                        // Retourne le nombre de jours nécéssaires pour que toute la ville soit malade.
 ```
 
-Rappelons que pour que la fonction `doomsDay()` retourne un nombre `n`, il faudra écrire à la fin de la défnintion de cette fonction : 
+Rappelons que pour que la fonction `doomsDay()` retourne un nombre `n`, il faudra écrire à la fin de la définition de cette fonction : 
 
 ```c
 return n;
