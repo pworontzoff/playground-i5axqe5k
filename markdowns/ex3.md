@@ -29,7 +29,7 @@ Ecrire un programme qui …
 - NB : Les tentatives qui sont hors de l'intervalle [1-1000] ne sont pas prises en compte (on garde le même nombre d'essais);
 - NB : Entrer 0 est synonyme d'abandon de la partie.
 
-Le programme doit générer les affichages suivants (en fonction des scenari : défaite, abandon ou vicroire):
+Le programme doit générer les affichages suivants (en fonction des scenari : défaite, abandon ou victoire):
 
 Exemple de défaite :
 ```
